@@ -4,6 +4,7 @@ Encryption DB Password for MySQL, PHPMyAdmin, etc.
 ## Anyone Can't Crack Your Password!
 
 ## How To Use ?
+    python3 rigorous.py test123
     If You :
         Input 6 Words will make 12 Rigorous
         Input <12 Words will make 24 Rigorous
