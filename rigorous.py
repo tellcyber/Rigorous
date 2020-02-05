@@ -4,8 +4,6 @@ import argparse
 import sys
 import os
 
-
-
 def rigorous():
     password = sys.argv[1]
     length = (len(password))
