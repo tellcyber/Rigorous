@@ -19,7 +19,7 @@ Encryption DB Password for MySQL, PHPMyAdmin, etc.
 ### Example 2
 ![1 Rigorous](png/21.png?raw=true)
 
-[ > Changelog < ]
+## [ > Changelog < ]
 * v1.0
     * ___--___
 * v2.0
